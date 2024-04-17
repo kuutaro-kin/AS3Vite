@@ -1,8 +1,11 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
+  <div>
+    <img src="./assets/images/student.jpeg" class="pic" alt="Student Image" />
+  </div>
   <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
@@ -15,6 +18,10 @@ import HelloWorld from './components/HelloWorld.vue'
 </template>
 
 <style scoped>
+.pic {
+  width: 30%;
+  height: auto;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
