@@ -16,8 +16,7 @@
           <li>Procrastinating</li>
           <li>Sleeping</li>
           <li>Driving scarily</li>
-          <li>Road rage</li>
-          <li>Test</li>
+          <li>Hello world</li>
         </ul>
       </div>
       
